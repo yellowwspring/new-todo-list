@@ -1,0 +1,14 @@
+todo list
+
+### features - JS
+1. add note
+2. delete note
+3. clear list
+4. mark as done
+
+### ui structure - html
+1. entry field
+2. add button
+3. delete button
+4. list of notes
+
