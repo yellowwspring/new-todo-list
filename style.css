@@ -1,6 +1,7 @@
 html {
-    background-color: #c7b2fb;
+    background-image: linear-gradient(80deg, #bb73da, #03164b);
     font-family: sans-serif;
+    min-height: 100vh;
 }
 
 .main-container {
@@ -14,7 +15,7 @@ html {
 
 h1 {
     font-size: 60px;
-    color: #b8fce3;
+    color: #ddcadf;
     text-align: center;
 
 }
@@ -61,8 +62,8 @@ li {
     font-family: "Arial Black";
     font-size: 14px;
     background-color: #a874f0;
-    border-bottom-left-radius: white;
-    padding: 3px 8px 3px 8px;
     border: none;
+    cursor: pointer;
+    border-radius: 2px;
 
 }
