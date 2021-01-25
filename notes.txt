@@ -12,3 +12,5 @@ todo list
 3. delete button
 4. list of notes
 
+todo https://learn.javascript.ru/traversing-dom
+
